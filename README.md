@@ -6,7 +6,7 @@ My Name Is LiaoZhenghua
 ---------------------------------------------
 
 # 2.My image
-![Myimage](My-picture.jpg)
+![My-picture.jpg](My-picture.jpg)
 
 ---------------------------------------------
 
@@ -17,7 +17,7 @@ My Name Is LiaoZhenghua
 
 # 4.Applications
 
-- [My profile](https://github.com/Masterhua/Masterhua---Lab12.git)
-- [todomvc](https://github.com/tastejs/todomvc.git)
+- [My profile](https://github.com/Masterhua/The-Final-Lab)
+- [todo](hhttps://github.com/themaxsandelin/todo)
 
 ---------------------------------------------
