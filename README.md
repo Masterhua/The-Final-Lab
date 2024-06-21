@@ -18,6 +18,6 @@ My Name Is LiaoZhenghua
 # 4.Applications
 
 - [My profile](https://github.com/Masterhua/The-Final-Lab)
-- [todo](hhttps://github.com/themaxsandelin/todo)
+- [todo](https://github.com/themaxsandelin/todo)
 
 ---------------------------------------------
